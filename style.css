@@ -1,0 +1,459 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.wrapper {
+	width: 1100px;
+	margin: auto;
+	position: relative;
+}
+
+.logo a {
+	margin-top: 12px;
+	font-size: 60px;
+	font-weight: 800px;
+	font-weight: bolder;
+	float: left;
+	font-family: "Amima By Alfira Dyah", "Nobuna By Zahra", "Mabu By Zahra", "Lato Black";
+	color: #253C78;
+}
+.menu {
+	margin-top: 12px;
+	float: right;
+	
+}
+
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex; /*untuk ngasi kolom di menu*/
+	line-height: 68px; /*biar posisinya dari bagian atas dan bawah biar seimbang dibagian tengah*/
+	position: sticky;
+	position: -webkit-sticky; /*buat savari*/
+	top: 0;
+	background: #ffffff;
+	background-attachment: fixed;
+	z-index: 1;
+	border-bottom: 2px solid #D7816A;
+	
+}
+
+nav ul{ /*style tab buat menu*/
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+}
+
+nav ul li {
+	float: left; /*dari kiri ke kanan*/
+}
+
+nav ul li a{ /*untuk ngasi link ke menu*/
+	color: rebeccapurple;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 23px 0px 23px; /* untuk ukuran menu tertata atas, kanan, bawah kiri*/
+	text-decoration: none;
+	
+}
+
+nav ul li a:hover { /* underline ketika kursor menghampiri link*/
+	text-decoration: underline;
+	color: #D7816A;
+}
+
+/*pengaturan section*/
+section {
+	margin: auto;
+	display: flex; /*agar membuat div menjadi kolom*/
+	margin-bottom: 50px;
+}
+
+.colomn {
+	margin-top: 50px;
+	margin: 50px;
+	margin-bottom: 0px;
+	
+}
+
+.colomn .desk {
+	margin-top: 100px;
+	font-size: 27px;
+	font-weight: bold;
+	font-family: 'Lato Black';
+	color: #253C78;
+	margin-bottom: 20px;
+	
+}
+
+.colomn .desk2 {
+	margin-top: 40px;
+	font-size: 27px;
+	font-weight: bold;
+	font-family: 'Lato Black';
+	color: #253C78;
+	margin-bottom: 10px;
+	
+}
+
+
+
+tabel {
+	position: relative;
+	width: 200%;
+	margin-left: 200px;
+}
+
+tabel, th, td {
+	
+	border: 1px #253C78;
+	border-collapse: collapse;
+}
+
+th, td {
+	font-family: "Lato Black";
+	padding: 20px;
+	text-align: center;
+}
+
+#t01 tr:nth-child(even){
+	background-color: darkgray;
+}
+
+#t01 tr:nth-child(odd) {
+	background-color: beige;
+}
+
+#t01 th {
+	background-color: #253C78;
+	color: #D7816A;
+}
+
+h2 {
+	margin-top: 100px;
+	font-family: 'Amima By Alfira Dyah';
+	font-weight: 800;
+	font-size: 70px;
+	margin-bottom: 15px;
+	color: #D7816A;
+	width: 100%;
+	line-height: 75px;
+	
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Lato Black';
+	color: #253C78;
+	margin-bottom: 33px;
+	padding: 7px 0px 7px 0px;
+}
+
+h5 {
+	margin-top: 20px;
+	font-family: "Lato Black";
+	font-size: 15px;
+	color: #253C78;
+	margin-bottom: 5px;
+	margin-right: 20px;
+	
+}
+
+a.button-cv {
+	background: #253C78;
+	font-size: 25px;
+	font-family: "Amima By Alfira Dyah";
+	border-radius: 20px; /*rounded sisi*/
+	padding: 12px 20px 12px 20px; /*atas kanan bawah kiri*/
+	color: antiquewhite;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+a.button-cv:hover {
+	background: #D7816A;
+	text-decoration: none;
+}
+
+h3 {
+	font-family: 'Amima By Alfira Dyah';
+	font-weight: bold;
+	font-size: 50px;
+	color: #D7816A;
+	width: 100%;
+	
+}
+
+.cv-contain {
+	display:flex;
+	flex-wrap: wrap;
+	font-weight: bold;
+	margin-left: 50px;
+	font-size: 17px;
+	font-family: "Gill Sans", "Gill Sans MT";
+	padding: 10px;
+	color: #D7816A;
+}
+
+
+
+/*h4 {
+	font-family: 'Amima By Alfira Dyah';
+	font-weight: 800;
+	font-size: 30px;
+	margin-bottom: 7px;
+	color: #253C78;
+	width: 100%;
+	line-height: 50px;
+	text-align: center;
+	padding: 20px 10px 20px 10px;
+}
+
+*/
+
+.imgwelcome {
+	margin-top: 120px;
+	width: 550px;
+	height: 550px;
+}
+
+.imgfira {
+	margin-top: 120px;
+	width: 400px;
+	height: 400px;
+}
+
+.imgport {
+	
+	padding: 20px 20px 20px 20px;
+	width: 400px;
+	height: 400px;
+}
+
+
+.tengah {
+	margin-top: 100;
+	text-align: center;
+	width: 100%;
+}
+
+#port {
+	margin-top: 100px;
+}
+
+ .desk h2 {
+	
+	font-family: 'Amima By Alfira Dyah';
+	font-weight: 100;
+	font-size: 30px;
+	margin-bottom: 10px;
+	color: #D7816A;
+	width: 100%;
+	line-height: 75px;
+	padding: 20px 0px 20px 0px;
+}
+
+.listportfolio {
+	width: 100%;
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.foto-foto {
+	width: 50%;
+	margin: 0 auto;
+	
+}
+
+.foto-foto img {
+	width: 80%;
+}
+
+
+.foto-foto p{
+	font-family: "Lato Black";
+	font-weight: 800;
+	font-size: 15px;
+	text-align: center;
+	
+}
+
+.tengah .desk {
+	
+	font-family: "Amima By Alfira Dyah";
+	font-size: 60px;
+	font-weight: 600;
+	color: #D7816A; 
+	
+}
+
+.form {
+
+	width: 100%;
+	position: relative;
+	font-family: "Lato Black";
+	font-size: 20px;
+	font-weight: 500;
+	padding: 0px 0px 20px 0px;
+	color: #253C78;
+	
+	
+}
+
+.form input  {
+	font-family: "Lato Black";
+	font-size: 18px;
+	font-weight: 500;
+	color: #D7816A;
+	text-align: center;
+	width: 350px;
+	height: 25px;
+	
+}
+
+.colomn .desk .form {
+	padding: 20px 20px 20px 20px;
+}
+
+button.button-quest {
+	color: #D7816A;
+	background: #253C78;
+	font-size: 25px;
+	font-family: "Amima By Alfira Dyah";
+	border-radius: 20px; /*rounded sisi*/
+	padding: 12px 20px 12px 20px; /*atas kanan bawah kiri*/
+	color: antiquewhite;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+button.button-quest:hover {
+	color: #253C78;
+	background: #D7816A;
+	text-decoration: none;
+}
+
+button.button-reset {
+	color: #D7816A;
+	background: #D7816A;
+	font-size: 25px;
+	font-family: "Amima By Alfira Dyah";
+	border-radius: 20px; /*rounded sisi*/
+	padding: 12px 20px 12px 20px; /*atas kanan bawah kiri*/
+	color: antiquewhite;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+button.button-reset:hover {
+	color: #D7816A;
+	background: #253C78;
+	text-decoration: none;
+}
+
+#cont {
+	background:#253C78;
+	padding: 5px 0px 5px 0px;
+	display: flex;
+	
+	
+}
+
+.footer h4 {
+	float: right;
+	margin-top: 17px;
+	font-family: "Amima By Alfira Dyah";
+	font-size: 35px;
+	color: #D7816A;
+	width: 100%;
+	line-height: 50px;
+}
+
+.footer a {
+	float: left;
+	margin-bottom: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+.footer a:hover{
+	color: #253C78;
+	background: #D7816A;
+	text-decoration: underline;
+}
+
+a.button-ig {
+	
+	font-size: 25px;
+	font-family: "Amima By Alfira Dyah";
+	border-radius: 25px; /*rounded sisi*/
+	padding: 8px 20px 8px 20px; /*atas kanan bawah kiri*/
+	color: antiquewhite;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+
+#copyright {
+	text-align: center;
+	width: 100%;
+	padding: 20px 0px 20px 0px;
+	background: #D7816A;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+@media screen and (max-width: 991.98px) {
+	.wrapper {
+		width: 90%;
+	}
+	
+	.logo a{
+		display: block;
+		width: 100%;
+		text-align: center;
+		
+	}
+	
+	nav .menu {
+		width: 100%;
+		margin: 0;
+		
+	}
+	
+	nav .menu.ul {
+		text-align: center;
+		margin: auto;
+		line-height: 60px;
+		
+	}
+	
+	nav .menu ul li {
+		display: inline-block;
+		float: none;
+	}
+	
+	section {
+		display: block;
+		
+	}
+	
+	section img {
+		display: block;
+	}
+}
