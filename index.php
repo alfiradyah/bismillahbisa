@@ -90,21 +90,6 @@
 					</table>
 			</section>
 			
-			<!-- <section id="port">
-				<div class="colomn">
-					<h4 class="#desk">Selamat Datang di Portfolio Alfira</h4>
-					
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\skincare.png"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\Arianagrande.png"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\IANY.png"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\Messybrown.png"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\cutie.jpg"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\yellowhijab.png"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\girlboss.jpg"/>
-					<img class="imgport" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\phonto.jpg"/>
-					
-				</div>
-			</section> -->
 			
 			<section id="port">
 			<div class="tengah">
@@ -112,54 +97,54 @@
 					<h2 class="desk"> Alfira's Portfolio</h2>
 					
 				</div>
-				<div class="listportfolio"> <!-- tutor-list-->
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\skincare.png"/>
+				<div class="listportfolio"> 
+					<div class="foto-foto"> 
+						<img src="img\skincare.png"/>
 						<p>Skincare Edition</p>
 						</div>
 						
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\Arianagrande.png"/>
+					<div class="foto-foto"> 
+						<img src="img\Arianagrande.png"/>
 						<p>Ariana Grande</p>
 						</div>
 						
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\IANY.png"/>
+					<div class="foto-foto"> 
+						<img src="img\IANY.png"/>
 						<p>Imagine A New You</p>
 						</div>
 						
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\Messybrown.png"/>
+					<div class="foto-foto"> 
+						<img src="img\Messybrown.png"/>
 						<p>Girl with Messy Brown Hair</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\cutie.jpg"/>
+					<div class="foto-foto"> 
+						<img src="img\cutie.jpg"/>
 						<p>Little Girl</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\yellowhijab.png"/>
+					<div class="foto-foto"> 
+						<img src="img\yellowhijab.png"/>
 						<p>Women in Yellow Hijab</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\girlboss.jpg"/>
+					<div class="foto-foto"> 
+						<img src="img\girlboss.jpg"/>
 						<p>Girl Boss</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\phonto.jpg"/>
+					<div class="foto-foto"> 
+						<img src="img\phonto.jpg"/>
 						<p>Escape</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\astro.png"/>
+					<div class="foto-foto"> 
+						<img src="img\astro.png"/>
 						<p>Astronaut</p>
 					</div>
 					
-					<div class="foto-foto"> <!-- kartu-tutor-->
-						<img src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\fira.png"/>
+					<div class="foto-foto"> 
+						<img src="img\fira.png"/>
 						<p>Alpha Female</p>
 					</div>
 					
