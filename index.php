@@ -61,7 +61,7 @@
 					</div>
 					
 				</div>
-					<img class="imgfira" src="D:\BACKUP ALFIRA\01 SEMESTER AKHIR!\DW\Tugas2_DPW_1402017011_Alfira Dyah Kusuma\img\File_000.jpeg"/>
+					<img class="imgfira" src="img\File_000.jpeg"/>
 				
 			</section>
 			<section id="#cv">
