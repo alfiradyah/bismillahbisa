@@ -114,27 +114,27 @@
 						</div>
 						
 					<div class="foto-foto"> 
-						<img src="img\Messybrown.png"/>
+						<img src="img\Messybrown.PNG"/>
 						<p>Girl with Messy Brown Hair</p>
 					</div>
 					
 					<div class="foto-foto"> 
-						<img src="img\cutie.jpg"/>
+						<img src="img\cutie.JPG"/>
 						<p>Little Girl</p>
 					</div>
 					
 					<div class="foto-foto"> 
-						<img src="img\yellowhijab.png"/>
+						<img src="img\yellowhijab.PNG"/>
 						<p>Women in Yellow Hijab</p>
 					</div>
 					
 					<div class="foto-foto"> 
-						<img src="img\girlboss.jpg"/>
+						<img src="img\girlboss.JPG"/>
 						<p>Girl Boss</p>
 					</div>
 					
 					<div class="foto-foto"> 
-						<img src="img\phonto.jpg"/>
+						<img src="img\phonto.JPG"/>
 						<p>Escape</p>
 					</div>
 					
